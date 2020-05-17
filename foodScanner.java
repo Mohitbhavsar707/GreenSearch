@@ -2,7 +2,7 @@ package hackTheEarth;
 
 import java.util.Scanner;
 
-public class gradeFoodItem {
+public class foodScanner {
 
 	public static void scan() {
 
@@ -28,14 +28,14 @@ public class gradeFoodItem {
 			String location = input.nextLine();
 			if (location.equals("Ontario")) {
 				System.out.println("Product Details... Uploading ");
-				System.out.println("_____________________________________________________________________________");
+/*Design Purposes*/		System.out.println("_____________________________________________________________________________");
 				transportation = 4;
 
 				String information = input.nextLine();
 				gallonsOfWater = 5;
 				System.out.println("Gallons of water used to create product : 18.5 Gallons (70 L) ");
 				System.out.println("The product was domestically raised as no pesticides or herbicides were applied");
-				System.out.println("_____________________________________________________________________________");
+/*Design Purposes*/		System.out.println("_____________________________________________________________________________");
 				System.out.println("");
 				System.out.println("Press enter to view your products climate grade");
 
