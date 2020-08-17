@@ -1,5 +1,5 @@
-# HackTheEarth
-Hackathon Project
+# GreenSearch
+Hack The Earth Project
 
 This is GreenSearch
 
